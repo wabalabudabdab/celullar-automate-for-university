@@ -1,6 +1,6 @@
 # Cellular Automaton
 A cellular automaton written entirely in `python3`. 
-This project is aimed at studying the behavior of cellular automata under different "rules of the game".
+This project is aimed at studying the behavior of cellular automate under different "rules of the game".
 
 
 ## ALSO
